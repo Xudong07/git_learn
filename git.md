@@ -15,13 +15,13 @@
   - git rest --hard [HEAD^ HEAD^^ HEAD100^ Commit id]
 - git reflog
 - git checkout
-- 
+- git rm
 
 
 
 ## Common Sense
 
-- 暂存区
+- 暂存区(index or stage)
   - git add 会将工作区的东西添加到暂存区，git commit 会提交暂存区的内容
 - 工作区
   - 当前工作的目录
