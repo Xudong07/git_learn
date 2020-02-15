@@ -8,6 +8,11 @@
   - git config --global user.email "you@example.com"
   - git config --global user.name "Your Name"
 - git status
+- git log
+  - git log --pretty=oneline
+- git rest
+  - git rest --hard [HEAD^ HEAD^^ HEAD100^ Commit id]
+- git reflog
 
 
 
