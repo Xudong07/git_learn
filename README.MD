@@ -38,6 +38,7 @@
 - git track the changes not the file
 - -- 代表工作区
 - 远程仓库的默认名称为origin
+- git test conflict
 
 
 
