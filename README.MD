@@ -18,6 +18,9 @@
 - git rm
 - git clone
 - git remote add
+- git branch
+- git merge
+- git switch
 
 
 
