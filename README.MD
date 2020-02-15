@@ -16,6 +16,8 @@
 - git reflog
 - git checkout
 - git rm
+- git clone
+- git remote add
 
 
 
