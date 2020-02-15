@@ -24,6 +24,7 @@
 - git stash
 - git  cherry-pick
 - git remote
+- git tag
 
 
 
