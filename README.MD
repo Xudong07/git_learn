@@ -21,6 +21,9 @@
 - git branch
 - git merge
 - git switch
+- git stash
+- git  cherry-pick
+- git remote
 
 
 
@@ -34,7 +37,7 @@
   - git commit 会将暂存区的内容添加到版本库
 - git track the changes not the file
 - -- 代表工作区
-- 
+- 远程仓库的默认名称为origin
 
 
 
