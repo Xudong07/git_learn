@@ -24,7 +24,7 @@
 - git stash
 - git  cherry-pick
 - git remote
-
+- git test conflict
 
 
 ## Common Sense
