@@ -1,6 +1,6 @@
 <center> <font size=6> Git </font> </center>   
 ## Commands (you can get all commands by running git without any options)
-
+## git help + command can help much
 - git init
 - git add
 - git commit -m "description"
@@ -17,7 +17,9 @@
 - git checkout
 - git rm
 - git clone
-- git remote add
+- 将本地库和远程库链接
+ - git remote add
+ - git remote remove
 - git branch
 - git merge
 - git switch
