@@ -1,6 +1,8 @@
 <center> <font size=6> Git </font> </center>   
-## Commands (you can get all commands by running git without any options)
-## git help + command can help much
+## Commands (you can get all commands by running git without any options)  
+
+## git help + command can help much  
+
 - git init
 - git add
 - git commit -m "description"
